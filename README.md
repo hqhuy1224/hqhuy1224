@@ -9,10 +9,10 @@
 
 * 🏢 Hiện đang làm việc tại eKMap, tham gia phát triển các giải pháp phần mềm trong lĩnh vực **GIS, quy hoạch và dữ liệu không gian**.
 * 💻 Tập trung phát triển các ứng dụng **Desktop** và **Web API** trên nền tảng **.NET**.
-* 🗺️ Có kinh nghiệm xây dựng các **Plugin QGIS**, ứng dụng GIS Desktop và các hệ thống phục vụ quản lý dữ liệu không gian.
+* 🗺️ Có kinh nghiệm xây dựng các **Plugin QGIS và AutoCad**, ứng dụng GIS Desktop và các hệ thống phục vụ quản lý dữ liệu không gian.
 * 🔭 Tham gia phát triển các hệ thống phần mềm phục vụ doanh nghiệp với yêu cầu về hiệu năng, khả năng mở rộng và tính ổn định.
 * 🌱 Không ngừng học hỏi và nâng cao kiến thức về **kiến trúc phần mềm**, **thiết kế hệ thống**, **GIS Enterprise** và **xử lý dữ liệu quy mô lớn**.
-* 💬 Có thể trao đổi về **C#**, **Python**, **.NET**, **QGIS Plugin**, **Web API** và các công nghệ liên quan đến dữ liệu không gian.
+* 💬 Có thể trao đổi về **C#**, **Python**, **.NET**, **AutoCad Plugin**, **Web API** và các công nghệ liên quan đến dữ liệu không gian.
 
 ---
 
@@ -42,7 +42,7 @@
 
 #### 🗺️ Công nghệ GIS
 
-* QGIS Plugin Development
+* AutoCad Plugin Development
 * WFS / WMS / WMTS,......
 * GeoJSON, Shapefile, PostGIS
 * Spatial Data Processing
